@@ -1,4 +1,4 @@
-package com.driver.services;
+package driver.services;
 
 import com.driver.model.Admin;
 import com.driver.model.ServiceProvider;

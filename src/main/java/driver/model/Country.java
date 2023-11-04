@@ -1,4 +1,4 @@
-package com.driver.model;// Note: Do not write @Enumerated annotation above CountryName in this model.
+package driver.model;// Note: Do not write @Enumerated annotation above CountryName in this model.
 
 
 import com.driver.model.CountryName;

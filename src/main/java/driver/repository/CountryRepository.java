@@ -1,4 +1,4 @@
-package com.driver.repository;
+package driver.repository;
 
 import com.driver.model.Country;
 import org.springframework.data.jpa.repository.JpaRepository;

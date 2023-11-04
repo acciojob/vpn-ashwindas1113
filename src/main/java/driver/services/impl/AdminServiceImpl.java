@@ -1,4 +1,4 @@
-package com.driver.services.impl;
+package driver.services.impl;
 
 import com.driver.model.Admin;
 import com.driver.model.Country;
